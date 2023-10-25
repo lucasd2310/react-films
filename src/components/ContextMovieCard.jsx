@@ -9,7 +9,6 @@ export function ContextMovieCard() {
   useEffect(() => {
     get('discover/movie').then((data) => {
       setMovies(data.results)
-      console.log('data:', data)
     })
   }, [])
 
