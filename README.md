@@ -1,4 +1,4 @@
-# React + Vite
+# Movies App
 
 This project contains movies information obtained from [The Movie Database (TMDB)](https://www.themoviedb.org/).
 
